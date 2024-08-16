@@ -30,11 +30,6 @@
     font-weight: bold;
     font-size: 40px;
 }
-
-.boton:hover {
-    background-color: #F4ECEC;
-    color:#798FD7
-}
 .boton {
     font-display: inline-block;
     background-color: #B082EA;
@@ -46,3 +41,9 @@
     transition: 0.3s ease-in-out;
 
 }
+
+.boton:hover {
+    background-color: #F4ECEC;
+    color:#798FD7
+}
+
